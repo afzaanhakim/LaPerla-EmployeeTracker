@@ -1,0 +1,9 @@
+Admin
+
+1.) Admin Can See clock-in clock-out time and duration of work of employee because Admin needs to keep a track daily
+
+User
+
+1.) User can register with name, last name, email, password and use that to login
+2.) User can see total hours they have worked in the week on a dashboard
+3.) User needs to clock in when they come and clock-out when they leave
